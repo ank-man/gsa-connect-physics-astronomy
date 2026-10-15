@@ -1,0 +1,99 @@
+{
+  "slug": "kenji-watanabe",
+  "name": "Kenji Watanabe",
+  "pronouns": "he/him",
+  "title": "Ph.D. Student, Physics & Astronomy",
+  "headline": "Hunting for the faintest dwarf galaxies around the Milky Way.",
+  "department": "Department of Physics & Astronomy",
+  "organization": "University of Georgia",
+  "gsaRole": "GSA Member",
+  "badgeLabel": "GSA Member",
+  "location": "Athens, GA",
+  "photo": "",
+  "bio": "Graduate student at the University of Georgia. Hunting for the faintest dwarf galaxies around the Milky Way. Open to collaborations, mentoring and good conversations.",
+  "email": "yourname@uga.edu",
+  "phone": "+1 706 555 0142",
+  "website": "https://example.com",
+  "cv": "assets/cv.pdf",
+  "calendar": "https://calendar.app.google/your-booking-link",
+  "researchInterests": [
+    "Galaxy formation",
+    "Dark matter",
+    "Survey astronomy",
+    "Bayesian methods"
+  ],
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/",
+      "icon": "scholar"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/",
+      "icon": "orcid"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/",
+      "icon": "github"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Three new ultra-faint satellites in LSST year one",
+      "venue": "ApJ Letters",
+      "year": 2026,
+      "authors": "",
+      "url": "https://doi.org/10.0000/example"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Faintfinder",
+      "description": "Pipeline for detecting stellar overdensities",
+      "url": "https://example.com"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D. Student, Physics & Astronomy",
+      "school": "University of Georgia",
+      "years": "2024 – present"
+    }
+  ],
+  "awards": [],
+  "officeHours": "By appointment · use the booking link",
+  "events": [
+    {
+      "title": "GSA General Assembly",
+      "date": "Nov 4, 2026",
+      "where": "Tate Center 480",
+      "url": ""
+    },
+    {
+      "title": "Research Showcase Poster Night",
+      "date": "Nov 19, 2026",
+      "where": "Zell B. Miller Learning Center",
+      "url": ""
+    }
+  ],
+  "brand": {
+    "cardName": "GSA Connect",
+    "org": "UGA Graduate Student Association",
+    "orgShort": "UGA GSA"
+  },
+  "theme": {
+    "accent": ""
+  },
+  "poweredBy": {
+    "name": "ScholarTap",
+    "url": "https://scholartap.com"
+  },
+  "siteUrl": "",
+  "wallet": {
+    "backgroundColor": "#141a4d",
+    "foregroundColor": "#FFFFFF",
+    "labelColor": "#EDEDED"
+  }
+}
